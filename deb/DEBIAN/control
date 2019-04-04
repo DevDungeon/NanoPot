@@ -1,0 +1,7 @@
+Package: nanopot
+Version: 1.0.0
+Maintainer: NanoDano <nanodano@devdungeon.com>
+Description: Simple TCP honeypot in Python3
+Homepage: https://github.com/DevDungeon/NanoPot
+Architecture: all
+Depends: python3

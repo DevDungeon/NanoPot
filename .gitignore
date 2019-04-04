@@ -1,7 +1,9 @@
-nanopot.ini
+nanopot.test.ini
 nanopot.log
 venv
 *.egg-info
 dist/
 __pycache__
 *.pyc
+.idea
+*.deb
