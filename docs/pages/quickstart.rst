@@ -1,6 +1,10 @@
 NanoPot Quickstart
 ==================
 
+.. image:: https://readthedocs.org/projects/nanopot/badge/?version=latest
+  :target: https://nanopot.readthedocs.io/en/latest/?badge=latest
+  :alt: Documentation Status
+
 NanoPot is a simple TCP honeypot written in Python 3.
 
 Installation
