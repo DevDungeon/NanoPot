@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d5498d-8028-4b2a-817c-d98dff7db918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/_build/doctrees/contents.doctree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/comment-bright.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/comment-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/comment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/down-pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/up-pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/_static/websupport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_build/html/contents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/contents.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/doctrees/environment.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/index.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/doctrees/index.doctree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/pages/quickstart.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/doctrees/pages/quickstart.doctree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/.buildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/.buildinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/pages/quickstart.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/pages/quickstart.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/basic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/doctools.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/doctools.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/documentation_options.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/documentation_options.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/searchtools.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/searchtools.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/genindex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/objects.inv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/pages/quickstart.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/pages/quickstart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/searchindex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/contents.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contents.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pages/quickstart.rst" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,38 +46,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/pages/quickstart.rst">
+        <entry file="file://$PROJECT_DIR$/docsold/contents.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/contents.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/conf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/make.bat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69" />
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/docs/index.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -149,6 +98,7 @@
         <option value="$PROJECT_DIR$/README.rst" />
         <option value="$PROJECT_DIR$/docs/pages/quickstart.rst" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/docs/index.rst" />
       </list>
     </option>
   </component>
@@ -186,6 +136,11 @@
               <item name="NanoPot" type="b2602c69:ProjectViewProjectNode" />
               <item name="NanoPot" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NanoPot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NanoPot" type="462c0819:PsiDirectoryNode" />
+              <item name="docsold" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,7 +222,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6018000" />
+    <option name="totallyTimeSpent" value="6333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -287,8 +242,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.44170403" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25784755" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -380,9 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/pages/quickstart.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -403,10 +355,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="230">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docsold/contents.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
 </project>
