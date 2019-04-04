@@ -8,6 +8,10 @@ Source Code
 
 https://github.com/DevDungeon/NanoPot
 
+PyPI package
+------------
+
+https://pypi.org/project/nanopot/
 
 Documentation
 -------------
