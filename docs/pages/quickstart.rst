@@ -21,6 +21,9 @@ Running
 Debian package
 --------------
 
+NanoPot can also be installed as a systemd service on Debian
+based distributions.
+
 Dowload the package from GitHub release, or
 build the Debian package with:
 
