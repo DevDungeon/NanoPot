@@ -5,6 +5,12 @@ NanoPot
   :target: https://nanopot.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
+.. image:: https://badge.fury.io/py/nanopot.svg
+   :target: https://badge.fury.io/py/nanopot
+
+.. image:: https://badge.fury.io/gh/DevDungeon%2FNanoPot.svg
+   :target: https://badge.fury.io/gh/DevDungeon%2FNanoPot
+
 NanoPot is a simple TCP honeypot written in Python 3.
 
 Source Code

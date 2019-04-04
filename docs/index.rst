@@ -6,6 +6,16 @@
 Welcome to NanoPot's documentation!
 ===================================
 
+.. image:: https://readthedocs.org/projects/nanopot/badge/?version=latest
+  :target: https://nanopot.readthedocs.io/en/latest/?badge=latest
+  :alt: Documentation Status
+
+.. image:: https://badge.fury.io/py/nanopot.svg
+   :target: https://badge.fury.io/py/nanopot
+
+.. image:: https://badge.fury.io/gh/DevDungeon%2FNanoPot.svg
+   :target: https://badge.fury.io/gh/DevDungeon%2FNanoPot
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
